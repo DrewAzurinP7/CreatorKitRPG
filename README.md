@@ -1,2 +1,0 @@
-# CreatorKitRPG
-CreatorKitRPG GameProgramming

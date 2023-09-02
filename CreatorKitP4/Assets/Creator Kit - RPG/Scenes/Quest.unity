@@ -39447,7 +39447,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
       propertyPath: items.Array.size
-      value: 3
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
       propertyPath: items.Array.data[0].id
@@ -39463,7 +39463,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
       propertyPath: items.Array.data[3].id
-      value: 1.1
+      value: 1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
+      propertyPath: items.Array.data[4].id
+      value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
+      propertyPath: items.Array.data[5].id
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
       propertyPath: items.Array.data[0].text
@@ -39480,7 +39488,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
       propertyPath: items.Array.data[3].text
-      value: Hello Mighty Warrior!
+      value: Why not Traveler?
+      objectReference: {fileID: 0}
+    - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
+      propertyPath: items.Array.data[4].text
+      value: :(
       objectReference: {fileID: 0}
     - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
       propertyPath: items.Array.data[0].options.Array.size
@@ -39488,11 +39500,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
       propertyPath: items.Array.data[1].options.Array.size
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
       propertyPath: items.Array.data[2].options.Array.size
-      value: 2
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
+      propertyPath: items.Array.data[3].options.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
+      propertyPath: items.Array.data[4].options.Array.size
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
       propertyPath: items.Array.data[0].options.Array.data[0].text
@@ -39508,11 +39528,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
       propertyPath: items.Array.data[2].options.Array.data[0].text
-      value: Really?
+      value: No thanks..
       objectReference: {fileID: 0}
     - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
       propertyPath: items.Array.data[2].options.Array.data[1].text
       value: No thanks..
+      objectReference: {fileID: 0}
+    - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
+      propertyPath: items.Array.data[3].options.Array.data[0].text
+      value: Cuz I don't want to
+      objectReference: {fileID: 0}
+    - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
+      propertyPath: items.Array.data[4].options.Array.data[0].text
+      value: '*Walk Away*'
       objectReference: {fileID: 0}
     - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
       propertyPath: items.Array.data[0].options.Array.data[0].image
@@ -39525,7 +39553,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
       propertyPath: items.Array.data[1].options.Array.data[0].targetId
-      value: 1.1
+      value: 1.2
       objectReference: {fileID: 0}
     - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
       propertyPath: items.Array.data[1].options.Array.data[1].targetId
@@ -39533,11 +39561,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
       propertyPath: items.Array.data[2].options.Array.data[0].targetId
-      value: 1.1
+      value: 1.3
       objectReference: {fileID: 0}
     - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
       propertyPath: items.Array.data[2].options.Array.data[1].targetId
       value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
+      propertyPath: items.Array.data[3].options.Array.data[0].targetId
+      value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 353955888, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
+      propertyPath: items.Array.data[4].options.Array.data[0].targetId
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 2140298296249417611, guid: 74b5c6b26f0fc4028b9aac1a7a36767d,
         type: 3}
@@ -39611,7 +39647,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 8835582639856596522, guid: 74b5c6b26f0fc4028b9aac1a7a36767d,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 861450871}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 74b5c6b26f0fc4028b9aac1a7a36767d, type: 3}
 --- !u!1 &855558700
@@ -39645,6 +39685,105 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &861450870
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 861450871}
+  - component: {fileID: 861450874}
+  - component: {fileID: 861450873}
+  - component: {fileID: 861450872}
+  m_Layer: 0
+  m_Name: A Quest
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &861450871
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 861450870}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1025494966}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &861450872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 861450870}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acd99916876a6405980838d7635b65cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  items:
+  - id: 1.1.2
+    text: Thank you for this tasty apple
+    image: {fileID: 0}
+    audio: {fileID: 0}
+    quest: {fileID: 0}
+    options: []
+--- !u!114 &861450873
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 861450870}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acd99916876a6405980838d7635b65cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  items:
+  - id: 1.1.1
+    text: Please fetch me an apple
+    image: {fileID: 0}
+    audio: {fileID: 0}
+    quest: {fileID: 0}
+    options: []
+--- !u!114 &861450874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 861450870}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 450b86d94d0b945a48b3ba1ce41dcc52, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  title: Apple Quest
+  desc: Get an apple for Warrior
+  questInProgressConversation: {fileID: 861450873}
+  questCompletedConversation: {fileID: 861450872}
+  spawnMode: 0
+  enableOnQuestStart: []
+  spawnOnQuestStart: []
+  requiredItems: []
+  spawnOnQuestComplete: []
+  rewardItems: []
+  destroySpawnsOnQuestComplete: 1
+  introCutscenePrefab: {fileID: 0}
+  outroCutscenePrefab: {fileID: 0}
+  isStarted: 0
+  isFinished: 0
 --- !u!1001 &899430876
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -41520,7 +41659,7 @@ PrefabInstance:
     - target: {fileID: 1481126516830738366, guid: ab3f7178010354d87a5016c7d6b23a5a,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.551111
+      value: -4.8612633
       objectReference: {fileID: 0}
     - target: {fileID: 1481126516830738366, guid: ab3f7178010354d87a5016c7d6b23a5a,
         type: 3}
@@ -42101,7 +42240,7 @@ PrefabInstance:
     - target: {fileID: 2950804947535917089, guid: 7c53998562858411aa85d8e0c4bc1333,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -12.743112
+      value: -13.611537
       objectReference: {fileID: 0}
     - target: {fileID: 2950804947535917089, guid: 7c53998562858411aa85d8e0c4bc1333,
         type: 3}
